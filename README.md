@@ -3,7 +3,7 @@
 
 pkg install git -y
 
-git clone https://github.com/boonkongbanpao-sudo/spam-IP.git
+git clone https://github.com/boonkongbanpao-sudo/IP-spam.git
 
 cd IP-spam
 
